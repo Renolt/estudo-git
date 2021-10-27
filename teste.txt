@@ -2,3 +2,5 @@ Estudo de git
 
 Verificando mudanças.
 
+testando envio para repositório de mudanças.
+
