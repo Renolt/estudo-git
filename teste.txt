@@ -4,3 +4,6 @@ Verificando mudanças.
 
 testando envio para repositório de mudanças.
 
+Acrescentando commit específico master depois de já ter feito
+commit lá na branch testing.
+
