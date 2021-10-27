@@ -11,5 +11,9 @@ commit lá na branch testing.
 
 Testando rabase na branch
 
+Acresentando commit na master após commit lá na branch
+testing-rebase.
+
+
 
 
